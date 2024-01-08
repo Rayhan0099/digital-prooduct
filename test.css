@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.test{
+    color: violet;
+    cursor: url("https://en.wikipedia.org/wiki/Image#/media/File:TEIDE.JPG"),auto;
+}
